@@ -1,0 +1,1 @@
+D:\School\ Supplies\WSU\2023\ Fall\CS450-Algorithms\Project3\450-P3-Griefer_List\griefer_list\target\release\griefer_list.exe: D:\School\ Supplies\WSU\2023\ Fall\CS450-Algorithms\Project3\450-P3-Griefer_List\griefer_list\src\main.rs
